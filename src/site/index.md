@@ -1,9 +1,12 @@
 ---
-title: Mint - Collect Together
-subtitle: Minty is an iOS app for minting NFTs on Solana. Projects list their mints with Minty and users can mint from their phone.
+title: Minty
+subtitle: Collect Together
 layout: layouts/base.njk
 ---
 
+## What is Minty?
+
+Minty is an iOS app for minting NFTs on Solana. Projects list their mints with Minty and users can mint from their phone.
 
 ## View Upcoming Projects
 
